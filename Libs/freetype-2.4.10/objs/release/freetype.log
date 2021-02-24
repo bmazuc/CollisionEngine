@@ -1,0 +1,48 @@
+﻿Build started 22/09/2015 17:51:06.
+     1>Project "C:\Users\f.fournel\Downloads\CollisionEngine\CollisionEngine_VS2015\Libs\freetype-2.4.10\builds\win32\vc2010\freetype.vcxproj" on node 2 (Build target(s)).
+     1>Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:".\..\..\..\objs\win32\vc2010\freetype2410.lib" /NOLOGO .\..\..\..\objs\release\autofit.obj
+         .\..\..\..\objs\release\bdf.obj
+         .\..\..\..\objs\release\cff.obj
+         .\..\..\..\objs\release\ftbase.obj
+         .\..\..\..\objs\release\ftbitmap.obj
+         .\..\..\..\objs\release\ftcache.obj
+         .\..\..\..\objs\release\ftdebug.obj
+         .\..\..\..\objs\release\ftfstype.obj
+         .\..\..\..\objs\release\ftgasp.obj
+         .\..\..\..\objs\release\ftglyph.obj
+         .\..\..\..\objs\release\ftgzip.obj
+         .\..\..\..\objs\release\ftinit.obj
+         .\..\..\..\objs\release\ftlzw.obj
+         .\..\..\..\objs\release\ftstroke.obj
+         .\..\..\..\objs\release\ftsystem.obj
+         .\..\..\..\objs\release\smooth.obj
+         .\..\..\..\objs\release\ftbbox.obj
+         .\..\..\..\objs\release\ftmm.obj
+         .\..\..\..\objs\release\ftpfr.obj
+         .\..\..\..\objs\release\ftsynth.obj
+         .\..\..\..\objs\release\fttype1.obj
+         .\..\..\..\objs\release\ftwinfnt.obj
+         .\..\..\..\objs\release\ftxf86.obj
+         .\..\..\..\objs\release\ftlcdfil.obj
+         .\..\..\..\objs\release\ftgxval.obj
+         .\..\..\..\objs\release\ftotval.obj
+         .\..\..\..\objs\release\ftpatent.obj
+         .\..\..\..\objs\release\pcf.obj
+         .\..\..\..\objs\release\pfr.obj
+         .\..\..\..\objs\release\psaux.obj
+         .\..\..\..\objs\release\pshinter.obj
+         .\..\..\..\objs\release\psmodule.obj
+         .\..\..\..\objs\release\raster.obj
+         .\..\..\..\objs\release\sfnt.obj
+         .\..\..\..\objs\release\truetype.obj
+         .\..\..\..\objs\release\type1.obj
+         .\..\..\..\objs\release\type1cid.obj
+         .\..\..\..\objs\release\type42.obj
+         .\..\..\..\objs\release\winfnt.obj
+         freetype.vcxproj -> C:\Users\f.fournel\Downloads\CollisionEngine\CollisionEngine_VS2015\Libs\freetype-2.4.10\builds\win32\vc2010\.\..\..\..\objs\win32\vc2010\freetype2410.lib
+     1>Done Building Project "C:\Users\f.fournel\Downloads\CollisionEngine\CollisionEngine_VS2015\Libs\freetype-2.4.10\builds\win32\vc2010\freetype.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.89

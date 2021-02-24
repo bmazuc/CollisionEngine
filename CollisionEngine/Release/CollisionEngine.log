@@ -1,0 +1,10 @@
+﻿  AABBTree.cpp
+d:\documents\isartdigital\programming\gp4\gp4physicprojects\collisiondetection\collisionengine\aabbtree.cpp(34): warning C4018: '<': signed/unsigned mismatch
+libdrawtext.lib(drawgl.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  27 of 1292 functions ( 2.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CollisionEngine.vcxproj -> D:\Documents\IsartDigital\Programming\GP4\GP4PhysicProjects\CollisionDetection\Release\CollisionEngine.exe

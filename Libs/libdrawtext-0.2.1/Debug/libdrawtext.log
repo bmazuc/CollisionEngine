@@ -1,0 +1,12 @@
+﻿Build started 22/09/2015 17:51:45.
+     1>Project "C:\Users\f.fournel\Downloads\CollisionEngine\CollisionEngine_VS2015\Libs\libdrawtext-0.2.1\libdrawtext.vcxproj" on node 2 (Build target(s)).
+     1>Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"C:\Users\f.fournel\Downloads\CollisionEngine\CollisionEngine_VS2015\Libs\libdrawtext-0.2.1\Debug\libdrawtext.lib" freetype.lib opengl32.lib /LIBPATH:"C:\Users\f.fournel\Downloads\CollisionEngine\CollisionEngine_VS2015\Libs\freetype-2.4.10\objs" /NOLOGO Debug\drawgl.obj
+         Debug\font.obj
+         Debug\utf8.obj
+         libdrawtext.vcxproj -> C:\Users\f.fournel\Downloads\CollisionEngine\CollisionEngine_VS2015\Libs\libdrawtext-0.2.1\Debug\libdrawtext.lib
+     1>Done Building Project "C:\Users\f.fournel\Downloads\CollisionEngine\CollisionEngine_VS2015\Libs\libdrawtext-0.2.1\libdrawtext.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.64
